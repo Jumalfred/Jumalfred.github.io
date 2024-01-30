@@ -677,6 +677,9 @@ footer>.copyright {
     .panel{
         width: 95%;
     }
+    .copyright{
+        margin-top: 20px;
+    }
     .CompLocation > h1{
         display: none;
     }
